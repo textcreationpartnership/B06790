@@ -1,0 +1,1188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The blemish of government, the shame of religion, the disgrace of mankinde; or, A charge drawn up against drunkards, and presented to His Highness the Lord Protector, in the name of all the sober partie in the three nations. Humbly craving, that they may be kept alone by themselves from infecting others; compelled to work and earn what they consume : and that none may be suffered to sell drink, who shall either swear, or be drunk themselves, or suffer others within their walls. / By R. Younge of Roxwell in Essex.</title>
+            <author>Younge, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06790</idno>
+            <idno type="STC">Wing Y139</idno>
+            <idno type="STC">ESTC R229124</idno>
+            <idno type="EEBO-CITATION">52612389</idno>
+            <idno type="OCLC">ocm 52612389</idno>
+            <idno type="VID">179718</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06790)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179718)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2797:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The blemish of government, the shame of religion, the disgrace of mankinde; or, A charge drawn up against drunkards, and presented to His Highness the Lord Protector, in the name of all the sober partie in the three nations. Humbly craving, that they may be kept alone by themselves from infecting others; compelled to work and earn what they consume : and that none may be suffered to sell drink, who shall either swear, or be drunk themselves, or suffer others within their walls. / By R. Younge of Roxwell in Essex.</title>
+                  <author>Younge, Richard.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Bell, and are to be sold by James Crumpe, in Little Bartholomews well-yard, who will also shew the other books, and tell the place where, any one may borrow them gratis,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Headpiece; initial letter.</note>
+                  <note>Includes: Offer of help to drowning men. Imprimatur, Tho. Gataker.</note>
+                  <note>Imperfect: stained and croppped with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Alcoholism --  Religious aspects --  Christianity --  Early works to 1800.</term>
+               <term>Temperance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div n="against drinking" type="tract">
+            <pb n="1" facs="tcp:179718:1"/>
+            <head>The <hi>Blemiſh</hi> of <hi>Government,</hi> the <hi>Shame</hi> of <hi>Religion,</hi> the
+<hi>Diſgrace</hi> of <hi>Mankinde;</hi> or, a <hi>Charge</hi> drawn up againſt
+<hi>Drunkards,</hi> and preſented to his Highneſs the <hi>Lord PROTECTOR,</hi> in the name of all the Sober Partie in the <hi>three Nations.</hi> Humbly craving, that they may be kept alone by themſelves from infecting others; compelled to work and earn what they conſume: And that none may be ſuffered to ſell Drink, who ſhall either <hi>Swear,</hi> or be <hi>Drunk themſelves,</hi> or ſuffer <hi>Others</hi> within their Walls.</head>
+            <byline>By <hi>R. Younge</hi> of <hi>Roxwell</hi> in <hi>Eſſex.</hi>
+            </byline>
+            <p n="1">1. BRANCH <hi>Of the Charge.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat as the <hi>Baſiliske</hi> is chief of <hi>Serpents:</hi> ſo of <hi>ſinners</hi> the
+<hi>Drunkard</hi> is chief. That Drunkenneſſe is of <hi>ſins</hi> the <hi>Queen:</hi> as the
+<hi>Gowt</hi> is of <hi>diſeaſes:</hi> even the <hi>root</hi> of all <hi>evill,</hi> the
+<hi>rot</hi> of all <hi>good.</hi> A ſin which turns a man wholly into ſin. That all ſins, all beaſt-like, all ſerpentine qualities meet in a Drun<g ref="char:EOLhyphen"/>kard, as <hi>rivers</hi> in the
+<hi>ſea:</hi> and that it were far better be a <hi>Toad,</hi> or a <hi>Serpent,</hi> then a Drunkard. That the Drunkard is like <hi>Ahab, who ſold himſelf to work wickedneſſe.</hi> That he wholly dedicates, reſignes, ſurrenders, and gives himſelf up to ſerve
+<hi>ſin</hi> and <hi>Satan.</hi> That h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ly imploiment is to <hi>drink, drab, quarrel, ſwear, curſe, ſcoffe, ſlander</hi> and
+<hi>ſe<g ref="char:EOLhyphen"/>duce:</hi> as i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to ſin were his
+<hi>trade,</hi> and he could do nothing elſe; like the <hi>Di<g ref="char:EOLhyphen"/>vel,</hi> who was a ſinner from the <hi>beginning,</hi> a ſinner to the <hi>end.</hi> That theſe <hi>ſons of Belial,</hi> are all for the <hi>belly:</hi> for to drink <hi>God</hi> out of their hearts, <hi>health</hi> out of their bodies, <hi>wit</hi> out of their heads, <hi>ſtrength</hi> out of their joints, all the
+<hi>money</hi> out of their purſes, all the <hi>drink</hi> out of the Brewers barrels,
+<hi>wife</hi> and <hi>children</hi> out of doors, the <hi>houſe</hi> out at windowes, the
+<hi>Land</hi> out of quiet, <hi>plen<g ref="char:EOLhyphen"/>tie</hi> ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the <hi>Nation,</hi> is all their buſineſſe. In which their ſwiniſh ſwilling, they reſemble ſo many <hi>frogs</hi> in a <hi>puddle,</hi> or
+<hi>water-ſnakes</hi> in a <hi>pond:</hi> for their whole exerciſe, yea, religion, is to drink; they even drown them<g ref="char:EOLhyphen"/>ſelves on the drie land. That they drink more <hi>ſpirits</hi> in one night, then their <hi>fleſh</hi> and <hi>brains</hi> be worth. That more is thrown out of one
+<hi>ſwines noſe,</hi> and <hi>mouth,</hi> and <hi>guts,</hi> then would maintein five ſufficient families.</p>
+            <p n="2">2. <hi>Br.</hi> That it is not to be imagined what all the Drunkards in one
+<hi>ſhire</hi> or <hi>County</hi> do devour, &amp; worſe th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> throw away in one yeare: when it hath been known (if we may give credit to <hi>Authors,</hi> and the <hi>oaths</hi> of others) that <hi>two and thirtie</hi> in one cluſter have made themſelves drunk; that <hi>ſix and thirty</hi> have drank themſelves dead in the place with carowſing of healths; that at one ſupper, <hi>one and fourtie</hi> have killed themſelves, with ſtriving for the co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>queſt: that <hi>two</hi> have drank each of them a <hi>peck</hi> at a draught: that
+<hi>your</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have drank <hi>four gallons</hi> of wine at a ſitting: that <hi>one</hi> man hath drank <hi>two ga<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lons</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wine; and <hi>two</hi> more <hi>three gallons</hi> of wine a piece at a time: that <hi>one</hi> Drunkard in a few hours, drank <hi>four gallons</hi> of wine: that <hi>four</hi> antient men drank as many cups of wine at one ſitting as they had lived years, which was in
+<pb facs="tcp:179718:2"/>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ree hundred</hi> cups of wine
+<hi>amongſt four</hi> men: and laſtly that <hi>three women</hi>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e into a Tavern in <hi>Fleet ſtreet</hi> (when I was a boy take it upon <hi>Clap<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ns</hi> Oath and credit, who drew the Wine) and drank <hi>fourtie nine quarts of Sack;</hi> two of them <hi>ſixteen</hi> a piece, and the third to get the victorie,
+<hi>ſeventeen quarts of Sack.</hi> Which being ſo, what may the many millions of theſe
+<hi>ding-thrifty dearth-makers</hi> conſume in a year in all the three <hi>Nations.</hi>
+            </p>
+            <p>Nor need it ſeem incredible, that common drunkards ſhould drink thus: for they can diſgorge themſelves at pleaſure, by onely putting their finger to their throat. And they will vomit, as if they were ſo many live <hi>Whales</hi> ſpuing up the <hi>Occan;</hi> which done, they can drink afreſh.</p>
+            <p>Or if not ſo, yet cuſtome hath made it to paſſe through them, as through a
+<hi>tunnel,</hi> or <hi>ſtreiner;</hi> whereby it comes out again as ſheer wine as it went in, as hath been obſerved.</p>
+            <p>Nor hath the richeſt <hi>Sherrie,</hi> or old <hi>Canarie</hi> any more operation with them, then a cup of <hi>ſix</hi> hath with me. And no marvell for if <hi>phyſick</hi> be taken too oft, it will not work like <hi>phyſick:</hi> but nature entertains it as a <hi>friend,</hi> not as a <hi>Phyſitian:</hi> yea <hi>poiſon</hi> by a familiar uſe becomes natural <hi>food.</hi> As <hi>Ariſtotle</hi> (in an example of a Maid, who uſed to pick <hi>ſpiders</hi> off the walls and eat them,) makes plain.</p>
+            <p n="3">3. Br. That as Drunkards have loſt the prerogative of their <hi>creation,</hi> and are changed (with <hi>Nebuchadnezar, Dan.</hi> 4.16.) from <hi>men</hi> into <hi>beasts,</hi> ſo they turn the <hi>ſanctuarie of life</hi> into the <hi>ſhambles of death:</hi> yea thouſands (when they have made up the meaſure of their wickedneſſe) are taken away in <hi>God</hi>'s
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ath in their drink; (as it were with the
+<hi>weapon in their bellies</hi>) it fa<g ref="char:EOLhyphen"/>ring <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them as it did with that <hi>Pope,</hi> whom the <hi>Divel</hi> is ſaid to have ſlain in the very inſtant of his Adulterie, and carrie him quick to <hi>hell;</hi> being ſud<g ref="char:EOLhyphen"/>denly ſtruck with death, as if the <hi>execution</hi> were no leſſe intended to the <hi>ſoul,</hi> then to the <hi>bodie.</hi>
+            </p>
+            <p>That by the <hi>Law of God</hi> in both <hi>Teſtaments; He that will not labour, ſhould not eat, Gen.</hi> 3.19. <hi>Prov.</hi> 20.4. 2 <hi>Theſ.</hi> 3.10. becauſe he robs the
+<hi>Common-wealth</hi> of that which is altogether as profitable as <hi>land,</hi> or
+<hi>treaſure.</hi> But Drunkards are not onely <hi>lazie get-nothings,</hi> but they are alſo
+<hi>riotous ſpend<g ref="char:EOLhyphen"/>alls;</hi> and yet theſe <hi>drunken drones,</hi> theſe
+<hi>gut-mongers,</hi> theſe <hi>Quagmiriſts,</hi> like <hi>vagrants</hi> and <hi>vermine,</hi> do nothing all their life-long that may tend to any good, as is ſtoried of <hi>Margites,</hi> and yet devour more of the <hi>fat of the Land,</hi> then would plentifully maintein thoſe
+<hi>millions of poor</hi> in the Nation, that are ready to famiſh. A thing not fit to be ſuffered in any <hi>Chriſtian Common-wealth; yea far filter they were ſtoned to death,</hi> as by the <hi>Law of God</hi> they ought, <hi>Deut.</hi> 21.20, 21. ſince this might bring them to repentance; where<g ref="char:EOLhyphen"/>as now <hi>they ſpend their daies in mirth: and ſuddenly they go down into hell, Job</hi> 21.13. Drunkards being thoſe <hi>ſwine,</hi> whom the <hi>legion</hi> carries headlong into the <hi>Sea,</hi> or pit of <hi>perdition.</hi>
+            </p>
+            <p n="4">4. Br. That every <hi>hour</hi> ſeems a <hi>day,</hi> and every <hi>day a month</hi> to a drunkard, that is not ſpent in a <hi>Tap-houſe;</hi> yea, they ſeem to have nailed their ears to the door of ſome <hi>Taverne,</hi> or <hi>Tap-houſ,</hi> and to have agreed with
+<hi>Satan, Maſter, it is good being here.</hi> That where ever the Drunkards <hi>houſe</hi> is, his dwelling is at the <hi>Ale-houſe,</hi> except all his money be ſpent, and then if his
+<hi>wife</hi> will <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ch him home with a
+<hi>lanthorne,</hi> and his men with a <hi>barrow,</hi> he comes wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ll image</hi> had</p>
+            <p>
+               <pb facs="tcp:179718:2"/> That the <hi>pot</hi> is no ſooner from their <hi>lips,</hi> but they are
+<hi>melancholy,</hi> and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> hearts as heavie, as if a <hi>milſtone</hi> lay upon it. Or father they are vexed lik<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Saul</hi> with an <hi>evil-ſpirit,</hi> which nothing will drive away but <hi>drink</hi> and <hi>Tobacco.</hi> They ſo wound their conſciences with all kinde of prodigious wickedneſſe, and ſo exceedingly provoke <hi>God,</hi> that they are
+<hi>rackt</hi> in conſcience, and <hi>tor<g ref="char:EOLhyphen"/>tured</hi> with the very flaſhes of
+<hi>hell-fire.</hi> That they drink to the end onely, that they may forget <hi>God,</hi> his
+<hi>threats</hi> and <hi>judgments;</hi> that they may drown <hi>conſci<g ref="char:EOLhyphen"/>ence,</hi> and put off all thoughts of <hi>death,</hi> &amp; <hi>hell;</hi> and to <hi>hearten</hi> and <hi>harden</hi> them<g ref="char:EOLhyphen"/>ſelves againſt all the <hi>meſſages of God, and threats of the Law:</hi> which is no o<g ref="char:EOLhyphen"/>ther in mitigating the pangs of conſcience, then as a <hi>ſaddle of gold</hi> to a
+<hi>galled-horſe,</hi> or a draught of <hi>poiſon</hi> to quench a man's <hi>thirst.</hi> That if they might have their wills, none ſhould refuſe to be drunk <hi>unpuniſhed,</hi> or be drunk <hi>un<g ref="char:EOLhyphen"/>rewarded</hi> at the common charge. As how will they boaſt what they drank, and how many they conquer'd at ſuch a meeting, making it their onely <hi>glory<g ref="char:punc">▪</g>
+               </hi> That the utmoſt of a Drunkards <hi>honeſtie</hi> is <hi>good-fellowſhip:</hi> that <hi>temperance</hi> and <hi>ſobrietie</hi> with them is nothing but <hi>humour</hi> and <hi>ſingularitie;</hi> and that they drink not for <hi>ſtrength,</hi> or <hi>need,</hi> but for <hi>lust</hi> and
+<hi>pride;</hi> to ſhew how full of <hi>Satan</hi> they are, and how near to
+<hi>ſwine.</hi>
+            </p>
+            <p>That though theſe <hi>ſwiniſh ſwill-bouls</hi> make their <hi>gullet</hi> their
+<hi>god,</hi> and ſa<g ref="char:EOLhyphen"/>crifice more to their <hi>god-bellie,</hi> then thoſe <hi>Babyloni<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> did to their <hi>god Bell, Bell &amp; the Dragon, ver.</hi> 3. yet they will <hi>ſay,</hi> yea <hi>ſwear,</hi> that they drink not for love of drink; though they love it above <hi>health, wealth, credit, childe, wife, life, heaven, ſalvation,</hi> all<g ref="char:punc">▪</g> They no more care for wine, then <hi>Eſau</hi> did for his
+<hi>pottage,</hi> for which he ſold his <hi>birth-right, Iſa.</hi> 56.12.</p>
+            <p n="5">5. <hi>Br.</hi> That Drunkards are the <hi>Divels captives,</hi> at his command, and ready to do his will; and that he rules over, and workes in them his pleaſure, 2 <hi>Tim.</hi> 2.26.
+<hi>Eph.</hi> 2.2. that he enters into them, and puts it into their hearts what he will have them to do, <hi>John</hi> 13.2. <hi>Acts</hi> 5.3. 1 <hi>Chron.</hi> 21.1. opens their mouths, ſpeaks in and by them, <hi>Gen.</hi> 3.1, to 6. ſtretcheth out their hands, and they act as he will have them, <hi>Acts</hi> 12.1, 2. <hi>Rev.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.10. he being their <hi>father, Gen.</hi> 3.15. <hi>John</hi> 8.44. their <hi>king, John</hi> 12.31. &amp; 14.30. and their <hi>god,</hi> 2 <hi>Cor.</hi> 4.4. <hi>Eph.</hi> 2.2. And which is worſt of all, that drunken<g ref="char:EOLhyphen"/>neſſe not onely <hi>dulls</hi> and <hi>dams</hi> up the <hi>head</hi> and
+<hi>ſpirits</hi> with mud, but it bea<g ref="char:EOLhyphen"/>ſtiates the <hi>heart,</hi> and (being worſe then the
+<hi>ſting of an Aſpe</hi>) poiſoneth the very <hi>ſoul</hi> and <hi>reaſon</hi> of a man, whereby the faculties and organs of repen<g ref="char:EOLhyphen"/>tance and reſolution are ſo <hi>corrupted</hi> and
+<hi>captivated,</hi> that it makes men ut<g ref="char:EOLhyphen"/>terly uncapable of returning, unleſſe <hi>God</hi> ſhould work a greater <hi>miracle</hi> up<g ref="char:EOLhyphen"/>on them, then was the <hi>creating of the whole world.</hi> Whence <hi>Auſtin</hi> com<g ref="char:EOLhyphen"/>pares it to the very <hi>pit of hell,</hi> out of which (when a man is once fallen into) there is no hope of <hi>redemption.</hi>
+            </p>
+            <p>That Drunkenneſſe is like ſome <hi>deſperate plague,</hi> which knowes no cure. As what ſaies <hi>Bafil,</hi> Shall we ſpeak to <hi>drunkards?</hi> we had as good ſpeak to
+<hi>liveleſſe-ſtones,</hi> or <hi>ſenceleſſe plants,</hi> or <hi>witleſſe beaſts,</hi> as to them; for they no more believe the threats of <hi>Gods Word,</hi> then it ſome Impoſter had ſpoken them. They will fear nothing, till they be in <hi>hell-fire;</hi> reſembling the <hi>So<g ref="char:EOLhyphen"/>domites,</hi> who would take no warning, though they were all <hi>ſtruck blinde:</hi> but <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in their courſe, untill they ſelt <hi>fire and brimſtone</hi> about their <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:179718:3"/>That there is <hi>no waſhing theſe Blackmores white, no charming theſe dea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Adders; blind men</hi> never bluſh,
+<hi>fools</hi> are never troubled in conſcience, neither are <hi>beaſts</hi> ever aſhamed of their deeds.</p>
+            <p>That a man ſhall never hear of an <hi>habituated, inſatuated, incorrigible, cau<g ref="char:EOLhyphen"/>terized Drunkard,</hi> that is reclaimed with age.</p>
+            <p n="6">6. <hi>Br.</hi> That as at firſt, and before cuſtome in ſin hath hardened theſe Drun<g ref="char:EOLhyphen"/>kards, they ſuffer themſelves to be transformed from <hi>men</hi> into <hi>ſwine;</hi> as <hi>El<g ref="char:EOLhyphen"/>penor</hi> was transformed by <hi>Circes</hi> into a <hi>hogge;</hi> ſo by degrees they are of <hi>ſwine</hi> transformed again into <hi>Divels,</hi> as <hi>Cadmus</hi> and his wife were into <hi>ſer<g ref="char:EOLhyphen"/>pents,</hi> as palpably appears by their <hi>tempting to ſin, and drawing to perdition.</hi>
+            </p>
+            <p>That theſe <hi>Agents</hi> for the <hi>Divel,</hi> Drunkards, practiſe nothing but the
+<hi>Art of debauching</hi> men; that to turne others into <hi>beaſts,</hi> they will make them<g ref="char:EOLhyphen"/>ſelves <hi>divels,</hi> wherein they have a notable dexteritie, as it is admirable how they will winde men in, and draw men on by drinking firſt a health to ſuch a <hi>man,</hi> then to ſuch a <hi>woman</hi> my <hi>miſtris,</hi> then to every ones <hi>miſtris;</hi> then to ſome <hi>Lord</hi> or <hi>Ladie;</hi> their <hi>maſter,</hi> their <hi>magiſtrate,</hi> their
+<hi>Captain, Commander,</hi> &amp;c. and never ceaſe, until their <hi>brains,</hi> their
+<hi>wits,</hi> their <hi>tongues,</hi> their <hi>eies,</hi> their <hi>feet,</hi> their
+<hi>ſences</hi> &amp; all their <hi>members</hi> fail them: that they will drink until they
+<hi>vomitup their ſhame</hi> again, like a filthie <hi>dog, or lie wallowing</hi> in their beaſtli<g ref="char:EOLhyphen"/>neſſe like a <hi>bruitiſh ſwine.</hi> That they think nothing too much either to
+<hi>do or ſpend,</hi> that they may make a <hi>ſober man a drunkard,</hi> or to drink
+<hi>another drun<g ref="char:EOLhyphen"/>kard</hi> under the table; which is to brag how far they are become the
+<hi>divels</hi> children: that in caſe they can make a ſober and religious man exceed his bounds, they will ſing and rejoice as in the diviſion of a ſpoil; and boaſt that they have drenched ſobrietie, and blinded the light; and ever after be a ſnuffing of this taper,
+<hi>Pſal.</hi> 13.4. But what a <hi>barharous, graceleſſe, and un<g ref="char:EOLhyphen"/>chriſtian-like</hi> practice is this, to make it their glory, paſtime and delight, to ſee <hi>God diſhonored,</hi> his <hi>Spirit grieved,</hi> his <hi>Name blaſphemed,</hi> his <hi>creatures a<g ref="char:EOLhyphen"/>buſed, themſelves</hi> and their <hi>friends ſouls damned.</hi> Doubtleſſe ſuch men have climbed the <hi>higheſt ſtep</hi> o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>ladder of wickedneſſe;</hi> as thinking their own ſins will not preſſe them deep enough into <hi>hell,</hi> except they load themſelvs with other mens; which is
+<hi>Divel-like</hi> indeed! whoſe aime it hath ever been, ſeeing he muſt of neceſſitie be wretched, not to be wretched alone.</p>
+            <p>That as they make theſe <hi>healths</hi> ſerve as a <hi>pulley,</hi> or
+<hi>ſhooing-horn</hi> to draw men on to drinke more, then elſe they would or ſhould do: ſo a health be<g ref="char:EOLhyphen"/>ing once begun, they will be ſure that every one preſent ſhall pledge the ſame, in the ſame manner and meaſure, be they <hi>thirſtie,</hi> or <hi>not thirſtie, wil<g ref="char:EOLhyphen"/>ling,</hi> or <hi>not willing, able,</hi> or <hi>unable:</hi> be it againſt their
+<hi>ſtomachs, healths, na<g ref="char:EOLhyphen"/>tures, judgments, hearts</hi> and <hi>conſciences,</hi> which do utterly abhor, and ſecret<g ref="char:EOLhyphen"/>ly condemne the ſame. That in caſe a man will not for company, grievouſ<g ref="char:EOLhyphen"/>ly <hi>ſin against God,</hi> wrong his own <hi>bodie,</hi> deſtroy his
+<hi>ſoul,</hi> and wilfully <hi>leap into hell-fire</hi> with them; they wil hate him worſe then the <hi>hangman:</hi> and will ſooner adventure their <hi>blood in the field,</hi> upon refuſing, or croſſing their healths then in the cauſe and quarrel of their
+<hi>Countrie.</hi>
+            </p>
+            <p n="7">7. <hi>Br.</hi> How they are ſo pernicious, that to damne their own ſouls is the leaſt part of their miſchief; and that they draw vengeance upon thouſands, by ſeducing ſome, and giving ill example to others<g ref="char:punc">▪</g> That one Drunk<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:179718:3"/>a multitude; being like the <hi>Bramble, Judg.</hi> 9.15. which firſt ſet it ſelf on fire and then fired all the Wood. Or like <hi>a malicious man, ſick of the plague,</hi> that runs into the throng to diſperſe his infection; whoſe miſchief out weigh's all penaltie. And this ſhews, that they not onely partake of the <hi>Divels na<g ref="char:EOLhyphen"/>ture,</hi> but that they are
+<hi>very divels</hi> in the <hi>likeneſſe of men:</hi> and that the very wickedneſſe of one that feareth <hi>God,</hi> is far better then the good intreaty of a Drunkard.</p>
+            <p>That with ſweet words they will tole men on to deſtruction, as we tole <hi>beaſts</hi> with <hi>fodder</hi> to the <hi>ſlaughter-houſe;</hi> And that to take away all ſuſpiti<g ref="char:EOLhyphen"/>on, they will ſo mollifie the ſtiffneſſe of a man's prejudice, ſo temper and fit him to their own mould; that once to ſuſpect them, requires the ſpirit of diſcerning. And that withall they ſo confirme the profeſſion of their love with <hi>oaths, proteſtations</hi> and
+<hi>promiſes,</hi> that you would think <hi>Jona<g ref="char:EOLhyphen"/>than's</hi> love to <hi>David</hi> nothing to it. That theſe pernicious ſeducers, <hi>divels in the ſhape of men,</hi> have learned to handle a man ſo ſweetly, that one would think it a pleaſure to bee ſeduced.</p>
+            <p>But little do they think! how they advance their own damnations: when the blood of ſo many ſouls as they have drawn away, will be required at their hands. For know this thou tempter, that thou doeſt not more <hi>in<g ref="char:EOLhyphen"/>creaſe other mens wickedneſſe on earth,</hi> (whether by
+<hi>perſwaſion,</hi> or <hi>provocation,</hi> or <hi>example</hi>) then their wickedneſs ſhall <hi>increaſe thy damnation in hell, Luk.</hi> 16.27.28. <hi>Non fratres dilexit, ſed ſeipſum reſpexit.</hi> And this let me ſay to the horror of their conſciences, that make merchandiſe of ſouls; that it is a queſtion when ſuch an one coms to <hi>hell,</hi> whether
+<hi>Judas</hi> himſelf would change <hi>torments</hi> with him.</p>
+            <p n="8">8. <hi>Br.</hi> That the Drunkard is ſo pleaſing a murtherer, that he tickles a man to death, and makes him (like <hi>Solomons fool</hi>) die laughing. Whence it is, that many who hate their other enemies (yea, and their friends too) imbrace this enemy, becauſe he
+<hi>kiſſeth</hi> when he <hi>betraieth.</hi> And indeed what fence? for a <hi>piſtol charged</hi> with the <hi>bullet of friendſhip.</hi> Hence it is alſo, that thou<g ref="char:EOLhyphen"/>ſands have confeſt at the <hi>Gallowes,</hi> I <hi>had never come to this but for ſuch and ſuch a Drunkard.</hi> For commonly the <hi>Drunkards progreſſe</hi> is, from <hi>luxury</hi> to
+<hi>beggerie,</hi> from <hi>beggerie</hi> to <hi>thieverie,</hi> from the <hi>Taverne</hi> to
+<hi>Tyborne,</hi> from the <hi>Ale-houſe</hi> to the <hi>Gallows.</hi> Briefly; That theſe
+<hi>Bawds</hi> and <hi>Panders</hi> of <hi>vice</hi> breath nothing but <hi>infection,</hi> and ſtudie nothing but their own, and other mens <hi>deſtruction.</hi> That the Drunkard is like
+<hi>Julian,</hi> who never did a man a good turn, but it was to damne his ſoul. That his proffers are like the <hi>fow<g ref="char:EOLhyphen"/>lers ſhrape,</hi> when he caſts <hi>meat</hi> to <hi>birds,</hi> which is not out of <hi>pitie</hi> to relieve, but out of <hi>treacherie</hi> to inſnare them. Or like
+<hi>traps</hi> we ſet for <hi>vermine,</hi> ſeem<g ref="char:EOLhyphen"/>ing charitable, when they intend to kill,
+<hi>Jer.</hi> 5.26. And thou maiſt anſwer theſe curſed tempters, who delight in the murther of ſouls, as the <hi>woman of Endor</hi> did <hi>Saul,</hi> 1 Sam. 28. <hi>Wherefore ſeekſt thou to take me in a ſnare, to cauſe me to die,</hi> Verſ. 9.</p>
+            <p>That he is another <hi>Abſalom,</hi> who made a feaſt for <hi>Amnon</hi> whom he meant to kill. And there is no ſubtlety like that which deceives a man, and hath thanks for the labour. For as our <hi>Saviour</hi> ſaith, <hi>Bleſſed is the man that is not</hi>
+               <pb n="6" facs="tcp:179718:4"/>with their wiles. For herein alone conſiſts the difference, <hi>He whom the Lor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> loves, ſhall be delivered from</hi> their meretricious allurements. <hi>Eccleſ.</hi> 7.26. And <hi>he whom the Lord abhors, ſhall fall into their ſnares,</hi> Prov. 22.14.</p>
+            <p n="9">9. <hi>Br.</hi> That <hi>Taverns</hi> and <hi>Tap-houſes</hi> are the drinking
+<hi>ſchools</hi> where they learne this their <hi>skill,</hi> and are <hi>trained up</hi> in this
+<hi>trade</hi> of <hi>tempting.</hi> For <hi>Satan</hi> does not work them to this heighth of impietie all at once, but by degrees: When cuſtome <hi>of ſin</hi> hath deaded all remorſe for <hi>ſin;</hi> as it is admirable how the ſoul that takes delight in lewdneſſe, is gained upon by cuſtome. They <hi>grow</hi> up in <hi>ſin,</hi> as worldlings grow in
+<hi>wealth</hi> and <hi>honour. They waxe worſe and worſe,</hi> ſaies the Apoſtle, 2
+<hi>Tim.</hi> 3.13. they go firſt over <hi>ſhoo's,</hi> then over <hi>hoots,</hi> then over
+<hi>ſhoulders;</hi> and at length over <hi>head</hi> and <hi>ears</hi> in ſin, as ſome do in debt. Now theſe <hi>Tap-houſes</hi> are their <hi>meeting-places,</hi> where they hear the
+<hi>Divels lectures</hi> read; the <hi>ſhops</hi> and <hi>markets</hi> where <hi>Satan drives his trade;</hi> the <hi>ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hools</hi> where they take their <hi>degrees:</hi> theſe are the <hi>Guild-halls</hi> where all ſorts of ſinners gather together, as the <hi>humours</hi> do into the <hi>ſtomach</hi> before an <hi>Ague ſit,</hi> and where is projected all the wickedneſſe that breaks forth in the
+<hi>Nation,</hi> as our <hi>reverend Judges</hi> do finde in their ſeveral <hi>Circuits.</hi>
+            </p>
+            <p>That theſe <hi>Taverns</hi> and <hi>Ale-houſes</hi> (or rather <hi>hell-houſes</hi>) are the <hi>foun<g ref="char:EOLhyphen"/>tains</hi> and <hi>well-heads</hi> from whence <hi>ſpring</hi> all our
+<hi>miſeries</hi> and <hi>miſchiefs:</hi> theſe are the <hi>Nurſeries</hi> af all <hi>riot, exceſſe</hi> and <hi>idleneſſe,</hi> making our Land another <hi>Sodom,</hi> and furniſhing yearly our <hi>Jayls</hi> and <hi>Gallowſes.</hi> Here they ſit all day in
+<hi>troops,</hi> doing that in <hi>earnest</hi> which we have ſeen boies do in <hi>ſport;</hi> ſtand on their <hi>heads,</hi> and ſhake their <hi>heels</hi> againſt <hi>heaven;</hi> where, even to hear how the Name of the <hi>Lord Jeſus</hi> is pearced, and <hi>God's Name</hi> blaſphemed, would make a <hi>dumbe-man ſpeak, a dead-man</hi> almoſt to <hi>quake.</hi>
+            </p>
+            <p n="10">10. <hi>Br.</hi> That it were endleſs to repeat their <hi>vain babling, ſcurrilous jeſting, wicked talking, impious ſwearing</hi> and <hi>curſing:</hi> that when the drink that once bit them, and ſet their <hi>tongues</hi> at libertie, their <hi>hearts come up</hi> as eaſily as ſome of their <hi>drink;</hi> yea, their limitleſſe tongues do then
+<hi>clatter</hi> like ſo ma<g ref="char:EOLhyphen"/>ny <hi>windows looſe in the winde,</hi> and you may aſſoon perſwade <hi>a ſtone to ſpeak,</hi> as them to be <hi>ſilent;</hi> it faring with their
+<hi>clappers</hi> as with a <hi>ſick-mans pulſe,</hi> which alwaies <hi>beats,</hi> but ever out of order. That one Drunkard hath tongue enough for twentie men; for let but three of them be in a room, they will make a noiſe, as if all the <hi>thirtie bells in Antwerpe ſteeple</hi> were
+<hi>rung</hi> at once: or do but paſſe by the door, you would think your ſelf in the <hi>Land of Parrats.</hi> That it is the propertie of a drunkard to <hi>diſgorge his boſome</hi> with his <hi>ſtomach,</hi> to emptie his <hi>minde</hi> with his <hi>maw:</hi> His tongue reſembles
+<hi>Bac<g ref="char:EOLhyphen"/>chus</hi> his <hi>Liber pater,</hi> and goes like the <hi>ſayle of a Winde-mill:</hi> For as a great <hi>gale of winde</hi> whirleth the <hi>ſayls about,</hi> ſo abundance of drink whirleth his <hi>tongue</hi> about, and keeps it in <hi>continual motion.</hi> Now he
+<hi>rayls,</hi> now he <hi>ſcoffs</hi> now he <hi>lies,</hi> now he <hi>ſlanders,</hi> now he
+<hi>ſeduces,</hi> talks <hi>bawdy, ſwears, bans, foams,</hi> and cannot be quiet, till his
+<hi>tongue</hi> be <hi>wormed.</hi> So that from the be<g ref="char:EOLhyphen"/>ginning to the end, he belcheth forth nothing, but what is as far from <hi>tru<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> pietie, reaſon, modestie;</hi> as that the <hi>Moon</hi> came down from <hi>heaven</hi> to vi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Mahomet:</hi> As oh! the beaſtlineſſe which <hi>burns</hi> in their unchaſte and in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ure <hi>mindes,</hi> that <hi>ſmokes</hi> out at their polluted <hi>mouthes!</hi> A man would th<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <pb n="7" facs="tcp:179718:4"/>his mouth run over with falſhoods againſt both <hi>Magiſtrates, Miniſters,</hi> and <hi>Chriſtians<g ref="char:punc">▪</g>
+               </hi> what ſpeaks he leſſe then <hi>whoredoms, adulteries, inceſts</hi> at every word; yea, hear two or three of them talke, you would change the <hi>Lycaoni<g ref="char:EOLhyphen"/>ans lang<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</hi> and ſay, Divels are come up <hi>in the likeneſſe of Men.</hi>
+            </p>
+            <p n="11">11. <hi>Br.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat at theſe places men learn to contemne <hi>Authority,</hi> as <hi>boies</hi> grown ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l and ſtubborn, contemne the <hi>rod:</hi> Here it is that they
+<hi>utter ſwelling and proud words againſt ſuch as are in Dignitie,</hi> as Saint
+<hi>Peter,</hi> and Saint <hi>Jude</hi> have it. <hi>They ſet their mouthes againſt heaven, and their tongues walk through the earth, Pſal.</hi> 73.9. So that many a good <hi>Miniſter</hi> and <hi>Chriſtian</hi> may ſay with holy <hi>David, I became a ſong of the drunkards, Pſal</hi> 69.12. And in caſe any of them have <hi>wit,</hi> here they will ſhew it in
+<hi>ſcoffing</hi> at <hi>Religion,</hi> and <hi>flowting</hi> at <hi>holineſſe.</hi> From whence it is, that we have ſo <hi>many Atheists,</hi> and ſo <hi>few Chriſtians</hi> amongſt us (notwithſtanding our ſo much means of grace); and that the <hi>Magiſtracie</hi> &amp; <hi>Miniſtrie</hi> are ſo wofully <hi>contemned</hi> by all ſorts of people.</p>
+            <p>That theſe <hi>tippling Tap-houſes</hi> are the <hi>common Quagmires</hi> of all filthineſſe, where too many drawing their patrimonies through their throats, exhauſt and laviſh out their ſubſtance, and lay plots and devices how to get more. For hence they fall, either to <hi>open</hi> courſes of <hi>violence,</hi> or <hi>ſecret miſchief,</hi> till at laſt the <hi>Jayle</hi> prepares them for the <hi>Gibbet;</hi> for lightly they <hi>ſing</hi> through a <hi>red Lattiſe,</hi> before they <hi>crie</hi> through a <hi>Grate.</hi>
+            </p>
+            <p n="12">12 <hi>Br.</hi> I ſpeak not of all, I know the <hi>calling</hi> to be <hi>good,</hi> and that there are <hi>good of that calling,</hi> (and theſe will thank me, becauſe what I have ſaid, makes for their honour and profit too) but ſure I am, too many of theſe drinking-houſes are the very <hi>dens</hi> and <hi>ſhops,</hi> yea the <hi>thrones of Satan;</hi> very <hi>ſinks of ſin,</hi> which like ſo many <hi>Common-ſhores,</hi> refuſe not to welcome and incourage any, in the moſt loathſome pollutions they are able to invent, and put in practice. As did you but <hi>hear,</hi> and <hi>ſee,</hi> and <hi>ſmell,</hi> and
+<hi>know</hi> what is done in theſe Taverns and Ale-houſes, you would wonder that the
+<hi>earth</hi> could bear the <hi>howſes,</hi> or the <hi>Sun</hi> indure to look upon them. That leaſt they ſhould not in all this do homage enough to <hi>Satan,</hi> they not ſeldom drink their <hi>healths upon their knees,</hi> as the <hi>Heathen Witches</hi> and <hi>Sorcerers</hi> (of whom theſe have learned it) uſed to do, when they offered <hi>drink-offerings</hi> to
+<hi>Be<g ref="char:EOLhyphen"/>ebzebub</hi> the <hi>prince of Divels,</hi> and other their <hi>Devil-gods.</hi>
+            </p>
+            <p>That theſe godleſſe Ale drapers, and other ſellers of drink, in entertain<g ref="char:EOLhyphen"/>ing into their houſes, and complying with thoſe <hi>traiters againſt God,</hi> and in ſuffering ſo much impietie to reſt within their walls, do make themſelves guiltie of all, by ſuffering the ſame; and that a fearful curſe hangs over their heads, ſo long as they remain ſuch. For if
+<hi>one ſin</hi> of <hi>theft,</hi> or <hi>perjurie</hi> is enough to <hi>not the rafters,</hi> to <hi>grinde the ſtones,</hi> to <hi>level the walls</hi> and <hi>roof</hi> of any
+<hi>houſe</hi> with the <hi>ground;</hi> as it is <hi>Zech.</hi> 5.4. What are the
+<hi>oathes,</hi> the <hi>lies,</hi> the <hi>thefts,</hi> the <hi>whoredoms,</hi> the
+<hi>murthers,</hi> the damnable <hi>drunkenneſſe,</hi> the <hi>numberleſſe,</hi> and
+<hi>nameleſſe abominations</hi> that are committed there. For theſe Ale-houſe kee<g ref="char:EOLhyphen"/>pers are acceſſarie to the drunkards ſin, and have a fearful account to give for their tollerating ſuch, ſince they might, and ought to redreſſe it: ſo that their gain is moſt unjuſt, and all they have is by <hi>the ſins of the people;</hi> as <hi>Diogenes</hi> ſaid of the
+<hi>ſtrumpet Phrine.</hi>
+            </p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>of all</hi> ſeducing drunkards theſe Drink-ſellers are <hi>the chief;</hi> their wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le
+<pb facs="tcp:179718:5"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e being nought elſe but a viciſſitude of <hi>devouring</hi> and <hi>venting,</hi> and th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whole ſtudie how to <hi>toule in</hi> cuſtomers, and then
+<hi>egg them on</hi> to drink; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as if
+<hi>drinking</hi> and <hi>tempting</hi> were <hi>their trade:</hi> they are alwaies guzling
+<hi>wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in doors,</hi> or elſe tempting
+<hi>at the door,</hi> where they ſpend their vacant hou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> watching for a companion, as a <hi>ſpider</hi> would watch for a poor
+<hi>flie;</hi> or a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>whoriſh woman</hi> in the <hi>Proverbs</hi> laid wait for the young novice, unt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>with her great craft, and flattertng lips, ſhe had cauſed him to yeeld,</hi> Prov. 7.6. to 24. Though when he ſees a drunka<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, if hee but <hi>hold up his finger,</hi> the other follows him into his <hi>burrough,</hi> juſt <hi>like a fool to the ſtocks,</hi> and <hi>as an O<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to the ſlaughter-houſe,</hi> having no power to withſtand the temptation. So i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hee goes, and there continues as one <hi>bewitch'd,</hi> or <hi>conjur'd with a ſpell;</hi> out of which hee returns not, untill he hath emptied his <hi>purſe</hi> of <hi>money,</hi> and his
+<hi>head</hi> of <hi>reaſon:</hi> while in the mean time his poor <hi>wife, children</hi> and
+<hi>ſervants</hi> want bread.</p>
+            <p>That did ſellers of drinkaime at the <hi>glory of God, &amp; good of others,</hi> as they ought, 1 <hi>Cor.</hi> 10.31. there would not bee an hundreth part of the <hi>drun<g ref="char:EOLhyphen"/>kards, beggars, brawls,</hi> and <hi>famiſhed-families</hi> there are: whereas now thou<g ref="char:EOLhyphen"/>ſands do in ſheer drink, ſpend all the <hi>cloathes</hi> on their <hi>beds</hi> and <hi>backs.</hi> As be they poor
+<hi>labouring men,</hi> that muſt dearly earne it before they have it, theſe <hi>Ale-houſe keepers,</hi> theſe <hi>vice-breeders,</hi> theſe <hi>ſoul-murtherers</hi> will make them drink away as much <hi>in a day,</hi> as they <hi>can get in a week; ſpend twelve pence,</hi> ſooner then <hi>earne two-pence,</hi> as S. <hi>Ambroſe</hi> obſervs.</p>
+            <p>That thouſands of theſe Labouring men may be found in the very <hi>Sub<g ref="char:EOLhyphen"/>urbs</hi> of this
+<hi>Citie, that drink the very blood of their wives and children,</hi> who are near famiſhed, to ſatisfie the drunkards <hi>throat,</hi> or <hi>gut,</hi> wherein they <hi>are worſe then Infidels,</hi> or <hi>Cannibals,</hi> 1 <hi>Tim.</hi> 5.8. who again are juſtly met with<g ref="char:EOLhyphen"/>all: For as if <hi>God</hi> would <hi>pay</hi> them in their <hi>own coyn,</hi> how oft ſhall yee ſee
+<hi>ver<g ref="char:EOLhyphen"/>mine</hi> ſacking the <hi>drunkards blood,</hi> as faſt as he the others.</p>
+            <p n="14">14. <hi>Br.</hi> That theſe Drunkards &amp; Ale-drapers are alwaies laying their heads together, <hi>plotting</hi> and <hi>conſulting</hi> how to <hi>charme</hi> and <hi>tame</hi> their <hi>poor wives</hi> (for the Drunkard and his wife agree like the <hi>harpe</hi> and the
+<hi>harrow</hi>) which if <hi>maids</hi> did but hear, they would rather make choiſe of an
+<hi>Ape-carrier,</hi> or a <hi>Jakes-farmers ſervant,</hi> then of one who will be drawn to the Ale houſe. For let them take this for a rule, he that is a <hi>tame Divel abroad,</hi> will bee
+<hi>a roaring Divel at home;</hi> and hee that hath <hi>begun</hi> to be a Drunkard, will <hi>ever be</hi> a Drunkard. True, they will <hi>promiſe</hi> a maid <hi>fair,</hi> and <hi>binde themſelves</hi> by an hundred <hi>oaths</hi> and <hi>proteſtations;</hi> and ſhee (when love hath blinded and beſotted her) will believe them; yea, promiſe her ſelf the victorie, not doubting but ſhe ſhall reclaim him from his evil company; but <hi>not one of a thouſand, ſcarce one of ten thouſand</hi> that ever findes it ſo, but the contrary. For let Drunkards
+<hi>promiſe,</hi> yea and <hi>purpoſe</hi> what they will; experience ſhews, that <hi>they mend as ſowre Ale does in Summer;</hi> or as a <hi>dead hedge,</hi> which <hi>the longer</hi> it ſtands is <hi>the rottener.</hi> And how ſhould it be other, when they cannot go the length of a <hi>ſtreet,</hi> but they muſt paſſe by, perhaps <hi>an hundred Alehouſes,</hi> where they ſhall be called in. And all the while they are in the drinking-ſchool, they are bound by
+<hi>their law of good fellowſhip</hi> to be <hi>powring in</hi> at their <hi>mouths,</hi> or
+<hi>whiſſing out</hi> at their <hi>noſes:</hi> one ſerving as a ſhooing-horn
+<pb facs="tcp:179718:5"/>to the other; which makes them like <hi>ratsban'd Rats, drink and vent, vent and drink, Sellengers round,</hi> and the ſame again. Oh that a <hi>maids fore-wit</hi> were but ſo good as her <hi>after-wit!</hi> then the <hi>drunkard</hi> ſhould <hi>never have wiſe more to make a ſlave of,</hi> nor <hi>wives ſuch cauſe to curſe Ale-houſe keepers,</hi> as now they have. And indeed if I may ſpeak my thoughts, or what reaſon propounds to me;
+<hi>drunkards,</hi> are ſuch <hi>children</hi> and <hi>fools</hi> (to what go<g ref="char:EOLhyphen"/>vernors of families ought to be) that a <hi>rod</hi> is fitter for them then a <hi>wife.</hi> But of this by the way onely, that maids may not ſo miſerably caſt away themſelves: for they had <hi>better bee buried alive,</hi> then <hi>ſo married,</hi> as moſt poor men's wives can inform them.</p>
+            <p n="15">15. <hi>Br.</hi> That to ſpeak to theſe <hi>Demetriuſes,</hi> that <hi>get their wealth by drinking;</hi> yea, by helping to <hi>conſume their drink,</hi> &amp; that <hi>live onely by ſin, and the ſins of the people,</hi> were to ſpeed as <hi>Paul</hi> did at
+<hi>Epheſus,</hi> after ſome one of them had told <hi>the reſt of their occupation.</hi> Yea to expect amendment from ſuch, in a manner were to expect amendment from a <hi>Witch,</hi> who hath already <hi>given her ſoul to the Divel.</hi> That to what hath been ſpoken of
+<hi>drunkards</hi> and <hi>drink-ſellers,</hi> in the particular caſes of <hi>drinking</hi> and
+<hi>tempting,</hi> might be added <hi>ſeventie times ſeven more</hi> of the like
+<hi>abominations.</hi> For the drunkard is like ſome <hi>putrid grave, the deeper</hi> you digg,
+<hi>the fuller</hi> you ſhall finde him both of <hi>ſtench</hi> and <hi>horrour:</hi> Or like
+<hi>Hercules</hi>'s <hi>monſter,</hi> wherein were <hi>freſh heads ſtill ari<g ref="char:EOLhyphen"/>ſing one after the cutting off of another.</hi> But there needs no more then this <hi>taſte,</hi> to make any wiſe man (or any that love their own ſouls) to <hi>detest</hi> and beware theſe
+<hi>Bawds</hi> and <hi>Pandors of vice,</hi> that breath nothing but <hi>infecti<g ref="char:EOLhyphen"/>on,</hi> and
+<hi>ſtudie</hi> nothing but <hi>their own,</hi> and <hi>other mens deſtruction.</hi> Theſe
+<hi>Bro<g ref="char:EOLhyphen"/>kers of villany,</hi> whoſe very <hi>acquaintance</hi> is <hi>deſtruction:</hi> as how can they be other then <hi>dangerouſly</hi> infectious? and <hi>deſperately</hi> wicked? whoſe <hi>very mer<g ref="char:EOLhyphen"/>cies</hi> are <hi>crueltie.</hi>
+            </p>
+            <p n="16">16. <hi>Br.</hi> That I have <hi>unmasked their faces,</hi> is to <hi>infatuate their purpoſe:</hi> that I have inveighed and <hi>declaimed against drunkenneſſe,</hi> is <hi>to keep men ſober,</hi> For <hi>vices</hi> true <hi>picture,</hi> makes us <hi>vice deteſt.</hi>
+            </p>
+            <p>O that I had <hi>dehortation</hi> anſwerable to my <hi>deteſtation</hi> of it! Only here is a <hi>diſcovery</hi> how drunkards <hi>tempt:</hi> if you will ſee <hi>directions</hi> how to avoid their <hi>temptations,</hi> read my <hi>Sovereign Antidote against the contagion of evil company.</hi> Onely take notice for the preſent, that the <hi>beſt way to avoid evill,</hi> is to <hi>ſhun the occaſions:</hi> Do not onely <hi>ſhun drunkenneſſe,</hi> but <hi>the means</hi> to come to it: and to <hi>avoid hurt,</hi> keep thy ſelf <hi>out of ſhot;</hi> come not in <hi>drunken company,</hi> nor to <hi>drinking places:</hi> As for their <hi>love</hi> and
+<hi>friendſhip,</hi> conſider but whoſe <hi>Factors</hi> they are, and thou wilt ſurely
+<hi>hate</hi> them. <hi>Conſider what I ſay, and the Lord give you underſtanding in all things.</hi>
+            </p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>COnſidering the premiſes, if there were any <hi>love of God,</hi> any <hi>hatred of ſin,</hi> any <hi>zeal,</hi> any <hi>courage,</hi> any <hi>conſcience of an Oath</hi> in moſt of our <hi>Ju<g ref="char:EOLhyphen"/>ſtices of the Peace,</hi> they would rather <hi>put down</hi> and <hi>purge out</hi> of their <hi>Pariſhes</hi> and <hi>Liberties,</hi> this <hi>viperous brood</hi> of
+<hi>vice-breeders,</hi> and <hi>ſoul-murtherers</hi> (I mean Ale-houſe keepers) then
+<hi>increaſe them</hi> as they do, when any <hi>Common Drunkard, Cheat,</hi> or <hi>Witch</hi> may procure a <hi>Licence</hi> to ſell drink, if they will
+<pb facs="tcp:179718:6"/>but <hi>bribe</hi> ſome one of their <hi>Clerks.</hi> But if it be left to them (if
+<hi>his Highn<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> himſelf do not by ſome other way redreſſe it, as bleſſed be <hi>God</hi> he hath alre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dy begun the work in ſome <hi>Counties</hi>) I look never to ſee it mended, unt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Chriſt comes in the clouds.</hi>
+               </p>
+               <p>Onely it is much to be feared, that as we turn the <hi>ſanctuary of life</hi> into the
+<hi>ſhambles of death:</hi> ſo <hi>God</hi> may ſend a <hi>famine</hi> after ſuch a
+<hi>ſatietie,</hi> and <hi>peſti<g ref="char:EOLhyphen"/>lence</hi> after <hi>famine.</hi> Or rather that our
+<hi>Land,</hi> which hath been ſo long <hi>ſick</hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> this <hi>diſeaſe,</hi> and ſo often
+<hi>ſurfeted</hi> of this ſin, ſhould <hi>ſpue us all out,</hi> who are the
+<hi>Inhabitants.</hi>
+               </p>
+               <p>Or in caſe <hi>God</hi> be pleaſed to diſpence with the <hi>Nation,</hi> the wickedneſſe that is done by theſe <hi>drunkards</hi> and <hi>drink-ſellers,</hi> ſhall be reckoned, unto thoſe that are the <hi>permitters,</hi> for their own. For <hi>Governors</hi> make themſelves <hi>guiltie</hi> of <hi>thoſe ſins</hi> they may <hi>redreſſe</hi> and will not. But I know to whom I ſpeak, and my hopes are depending.</p>
+               <p>In the mean time, it is ſad to conſider, how many <hi>Drunkards</hi> will hear this
+<hi>Charge,</hi> for one that will <hi>applie it</hi> to himſelf. For confident I am that
+<hi>fifteen</hi> of <hi>twenty,</hi> all this <hi>Citie</hi> over, are Drunkards; yea,
+<hi>ſeducing Drunkards,</hi> in the dialect of <hi>Scripture,</hi> and by the <hi>Law of God,</hi> which extends even to the heart and affe<g ref="char:EOLhyphen"/>ctions, <hi>Mat.</hi> 5.21, 22, 28. Perhaps by the <hi>Laws</hi> of the <hi>Land,</hi> a man is not ta<g ref="char:EOLhyphen"/>ken for drunk, except his <hi>cies ſtare,</hi> his <hi>tongue ſtutter,</hi> and his <hi>leggs ſtagger;</hi> but by <hi>God's Law</hi> he is one <hi>that goes often to the drink,</hi> or that <hi>tarrieth long at it, Prov.</hi> 23.30, 31. He that will be drawn to the <hi>Tavern</hi> or <hi>Alehouſe</hi> by every idle ſoliciter, and there be deteined to drink, when he hath <hi>neither need of it,</hi> or
+<hi>minde to it;</hi> to the ſpending of his <hi>money,</hi> waſting of his pre<g ref="char:EOLhyphen"/>tious
+<hi>time,</hi> neglect of his <hi>calling,</hi> abuſing of the <hi>creatures</hi> (which thouſands want) diſcredit of the <hi>Goſpel,</hi> the ſtumbling of <hi>weak ones,</hi> the incouraging of <hi>indifferent ones,</hi> the hardning of his <hi>aſſociates,</hi> and all the truths enemies that know or hear of it. Briefly, he that <hi>drinks</hi> more for <hi>lust,</hi> or
+<hi>pride,</hi> or <hi>co<g ref="char:EOLhyphen"/>vetouſneſſe,</hi> or <hi>fear,</hi> or <hi>good fellowſhip,</hi> or to <hi>drive away time,</hi> or to <hi>ſtill con<g ref="char:EOLhyphen"/>ſcience,</hi> then for <hi>thirst,</hi> is a Drunkard in <hi>Solomon</hi>'s eſteem, <hi>Prov.</hi> 23.30, 31. Perhaps thou doeſt not think ſo, but can you produce that holy <hi>man of God,</hi> that will not deem him a drunkard, who can neither <hi>buy,</hi> nor <hi>ſell,</hi> nor <hi>meet</hi> any <hi>friend</hi> or
+<hi>cuſtomer,</hi> but he muſt go the Tavern, or Ale-houſe, perhaps <hi>ſix times</hi> in a day; and who conſtantly <hi>clubs</hi> it, firſt for his <hi>mornings draught,</hi> ſecondly at <hi>Exchange time,</hi> thirdly <hi>at night</hi> when ſhops are ſhut in; as is the common, but <hi>baſe cuſtome</hi> of moſt <hi>Tradeſmen;</hi> yea, and the <hi>Divel</hi> ſo blindes them, that they will plead a <hi>neceſſitie</hi> of it; and that it is for their
+<hi>profit.</hi>
+               </p>
+               <p>Nor can it bee denied, but in caſes of this nature, things are rather mea<g ref="char:EOLhyphen"/>ſured by the
+<hi>intention</hi> and <hi>affection</hi> of the <hi>doer,</hi> then of the <hi>iſſue,</hi> and
+<hi>event.</hi> And why ſhould not a man bee deemed a <hi>drunkard</hi> for his immoderate and inordinate <hi>affection to drink, or drunken company?</hi> as well as another, <hi>an Adul<g ref="char:EOLhyphen"/>terer,</hi> for the like affection to his <hi>neighbours wife, Mat.</hi> 5.21, 22, 28. Yet theſe men are in their own, and other mens eſteem, not onely <hi>good</hi> and <hi>ci<g ref="char:EOLhyphen"/>vil men,</hi> but <hi>good Chriſtians</hi> forſooth. Certainly the <hi>more light</hi> we have, the
+<hi>more blinde</hi> men are, or elſe this could not be; For I would gladly aske ſuch, Are you
+<hi>Chriſtians?</hi> in what part of the <hi>Word</hi> finde you a warrant for it
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Where finde you, that this <hi>cuſtome</hi> was ever uſed, by any one of theſe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="11" facs="tcp:179718:6"/>in former ages? Well may you (with <hi>Agrippa</hi>) be <hi>almoſt Chriſtians,</hi> but ſur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> enough, you are not with Saint <hi>Paul, altogether ſuch:</hi> and then what will becom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of you? For <hi>almoſt a ſon</hi> is a <hi>baſtard,</hi> almoſt <hi>ſweet</hi> is <hi>unſavorie,</hi> almoſt <hi>hot</hi> is <hi>luke<g ref="char:EOLhyphen"/>warm;</hi> and thoſe that are lukewarm <hi>will God ſpue out of his mouth,</hi> Rev. 3.15, 16.</p>
+               <p>
+                  <hi>A Chriſtian</hi> almoſt, is like <hi>a woman that dieth in travel,</hi> almoſt ſhe brought fort<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a <hi>ſon;</hi> but that almoſt killed the <hi>mother, and the ſon</hi> too. If thou <hi>believ'st almoſt</hi> thou ſhalt be <hi>ſaved almoſt;</hi> as we may ſay of a <hi>Thief</hi> that hath a
+<hi>pardon</hi> brought him whiles he is upon the <hi>gallows,</hi> he was almoſt
+<hi>ſaved,</hi> but he was <hi>hanged;</hi> and hi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pardon did him no good. To be <hi>almoſt a Chriſtian,</hi> is to be like the
+<hi>fooliſh Virgins</hi> that had <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>amps, but without oyle</hi> in them; for which they were <hi>ſhut out of heaven</hi> though they came to the very door, <hi>Matth.</hi> 25.10, 11, 12. Can the <hi>door</hi> which is but <hi>almost ſhut,</hi> keep out the <hi>Thief?</hi> Can the <hi>ſhip</hi> that is but <hi>almoſt tite,</hi> keep ou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>water?</hi> The
+<hi>ſouldier</hi> that does but almoſt <hi>fight</hi> is a <hi>coward.</hi> And therefore
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thou loveſt thy ſelf, look to it, and that in time, leaſt hereafter you moſt dolefull<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rue it<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> For know this, that you ſhall once give an account for every idle <hi>penie</hi> an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>hour</hi> you ſpend, and for every <hi>cup of drink</hi> you ſhall ſpoil, or waſte; and for ever<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> one that is incouraged to do the like by your <hi>example.</hi> For which ſee <hi>Matth.</hi> 12.36. <hi>Luke</hi> 16. 2.
+<hi>Rom.</hi> 14.12. 1 <hi>Pet.</hi> 4.5. <hi>Rev.</hi> 20.13. and 22.12.</p>
+               <p>That (by the bleſſing of <hi>God</hi>) our children, and childrens children may <hi>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>at drunkenneſſe,</hi> and <hi>love ſobrietie;</hi> let this bee fixed to ſome place convenient
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> every houſe, for all to read. The
+<hi>Perſians, Parthians, Spartans,</hi> and <hi>Lacedemonian<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> did the like, and found it exceeding efficacious: And
+<hi>Anacharſis</hi> holds it the mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> effectual means to that end.</p>
+               <p>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="imprimatur">
+                           <p>
+                              <hi>Imprimatur</hi>
+                           </p>
+                           <closer>
+                              <signed>EDMUND CALAMIE</signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+         <div n="offering help" type="tract">
+            <head>Offer of Help to Drowning-Men.</head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>
+                           <hi>Imprimatur,</hi>
+                        </p>
+                        <closer>
+                           <signed>THO. GATAKER.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>SEeing, and fore-ſeeing the ſad effects of men's crying down <hi>Books, Learning,</hi> th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Miniſtery, Sanctification, &amp;c.</hi> if this their deep, and divelliſh deſign do me<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with no ſtop: and ſeeing we ſhould ſpecially prepare for
+<hi>defence,</hi> where <hi>Sat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſpecially prepares for <hi>offence.</hi> Conſidering alſo the <hi>numberleſſe number</hi> of tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that by profeſſing themſelves
+<hi>Proteſtants,</hi> diſcredit the <hi>Proteſtant Religion:</hi> Wh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> becauſe they have been <hi>Chriſtened,</hi> as <hi>Simon Magus</hi> was, received the <hi>Sacram<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> of the Lord's Supper,</hi> like <hi>Judas;</hi> and for company go to <hi>Church</hi> alſo as
+<hi>Dogs</hi> do, a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> called
+<hi>Chriſtians,</hi> as we call the <hi>Heathen Images gods:</hi> yea, and (<hi>being blinded
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Prince of darkneſſe,</hi> 2 Cor. 4.4.) think to be ſaved by <hi>Chriſt,</hi> though they ta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> up <hi>Arms</hi> againſt him; and are no more like <hi>Chriſtians<g ref="char:punc">▪</g>
+               </hi> then
+<hi>Michols Image <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Goats hair</hi> was like
+<hi>David:</hi> Who make the <hi>world</hi> only their <hi>god,</hi> and <hi>pleaſure</hi> or
+<hi>pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>fit</hi> alone their <hi>Religion:</hi> Who are ſo graceleſſe, that <hi>God is not in all their though<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> except to blaſpheme him, and to ſpend his daies in the
+<hi>Divel's ſervice:</hi> Who <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing
+<hi>Chriſtians in name,</hi> will ſcoffe at a <hi>Chriſtian indeed:</hi> Who <hi>honour</hi> the <hi>d<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Saints in</hi> a <hi>cold profeſſion,</hi> while they <hi>worrey</hi> the <hi>living Saints</hi> in a <hi>cruel perſecuti<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Who ſo hate Holineſs, that they will hate a man for it; and ſay of <hi>good living</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:179718:7"/>of a <hi>good man,</hi> as ſome <hi>ſtomachs</hi> will <hi>riſe</hi> at the ſight of <hi>ſweet meats:</hi> Whoſe <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ligion</hi> is to oppoſe the power of <hi>Religion;</hi> and whoſe knowledge of the <hi>Truth,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> know how to argue againſt the <hi>Truth: Who juſtifie the wicked, and condemne<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> juſt:</hi> who call <hi>Zeal, madneſs;</hi> and <hi>Religion, fooliſhneſs:</hi> Who love their <hi>ſins</hi> ſo m<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> above their <hi>ſouls,</hi> that they will not onely <hi>mock</hi> their Admoniſher, <hi>ſcoff</hi> at <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> means to be ſaved, and make themſelves merry with their own <hi>damnations;</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> even hate one to the <hi>death,</hi> for ſhewing them the way to eternal <hi>life:</hi> who
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> condemne all for <hi>Round-heads,</hi> that have more <hi>Religion</hi> then an <hi>Heathen,</hi> or <hi>kno<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ledg</hi> of heavenly things then a <hi>childe</hi> in the womb hath of the things of this life or conſcience then an <hi>Atheiſt;</hi> or care of his ſoul, then a
+<hi>Beaſt,</hi> and are mocke<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of all that march not under the pay of the <hi>Divel:</hi> Who with <hi>Adam,</hi> will becom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Satans</hi> bond-ſlaves for an
+<hi>Apple;</hi> and like <hi>Eſau, ſell their Birth-right of Grace</hi> her<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and their <hi>Bleſſing of Glory</hi> hereafter
+<hi>for a meſſe of Pottage:</hi> Who prefer the ple<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſing of their <hi>palates</hi> before the <hi>ſaving of their ſouls:</hi> who have not onely caſt of <hi>Religion,</hi> that ſhould make them <hi>good men;</hi> but <hi>reaſon</hi> alſo, that ſhould make them <hi>men:</hi> Who waſte
+<hi>virtues</hi> faſter then <hi>riches,</hi> and <hi>riches</hi> faſter then any
+<hi>virtues</hi> ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> get them: Who do nothing elſe but <hi>ſin,</hi> and <hi>make others ſin too:</hi> who ſpend thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time and patrimonies in <hi>Riot;</hi> and upon
+<hi>Dice, Drabs, Drunkenneſſe;</hi> who place all their felicity in a <hi>Tavern</hi> or
+<hi>Brothel houſe,</hi> where <hi>Harlots</hi> and <hi>Sycophants</hi> ri<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e their Eſtates, and then ſend them to rob: Who will
+<hi>borrow</hi> of every one, but ne<g ref="char:EOLhyphen"/>ver intend to <hi>ſatisfie</hi> any one: <hi>Who glory in their ſhame,</hi> and are <hi>aſhamed</hi> of that which ſhould and would be their
+<hi>glory:</hi> Who deſire not the reputation of ho<g ref="char:EOLhyphen"/>neſty, but of good fellowſhip: Who inſtead of quenching their thirſt, drown their ſenſes; and had rather leave their
+<hi>wits</hi> then the <hi>wine</hi> behinde them: Who place their <hi>paradiſe</hi> in their
+<hi>throats, heaven</hi> in their <hi>guts:</hi> and <hi>make their belly, their god:</hi> Who pour their <hi>Patrimonies</hi> down their <hi>throats,</hi> and throw the <hi>houſe</hi> ſo long out at <hi>windows,</hi> that at length their <hi>houſe</hi> throws them out of <hi>doors:</hi> Who <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hink every one exorbitant that walks not after their rule: Who will <hi>traduce</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll whom they cannot <hi>ſeduce;</hi> even condemning with their <hi>tongues,</hi> what they <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ommend</hi> in their <hi>conſciences:</hi> Who, as they have no <hi>reaſon,</hi> ſo they will <hi>hear
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>one:</hi> Who are not more <hi>blinde</hi> to their own faults, then <hi>quick-ſighted</hi> in other
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ens: Who being diſpleaſed with others, will flie in their <hi>Makers face,</hi> and tear <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir <hi>Saviours Name</hi> in pieces with <hi>oaths</hi> and <hi>execrations,</hi> as being worſe then any <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad dog</hi> that
+<hi>flies in his Maſters face</hi> that keeps him: Who <hi>ſwear</hi> and <hi>curſe</hi> even
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut of <hi>cuſtome,</hi> as <hi>Currs bark;</hi> yea, they have ſo <hi>ſworn away</hi> all <hi>grace,</hi> that they
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ount it <hi>a grace to ſwear;</hi> and being reproved for <hi>ſwearing,</hi> they will <hi>ſwear</hi> that <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey ſwore not.</hi>
+            </p>
+            <p>Or perhaps they are <hi>covetous Cormorants, greedy Gripers, miſerly Muck-worms;</hi>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l whoſe <hi>reaches</hi> are at
+<hi>riches:</hi> Who make <hi>gold</hi> their <hi>god,</hi> and commodity the
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ern of their <hi>conſciences:</hi> Who hold every thing <hi>lawful,</hi> if it be <hi>gainful:</hi> Who
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>efer a little baſe pelf before <hi>God,</hi> and their own <hi>ſalvations;</hi> and who being
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ted with <hi>Gods bleſſings,</hi> do ſpurn at his <hi>precepts:</hi> Who like men <hi>ſleeping</hi> in a <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at,</hi> are carried down the <hi>ſtream</hi> of this World, until they arrive at their <hi>graveſ<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi>
+[Death] without once <hi>waking</hi> to bethink themſelves whether they are <hi>a go<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> [to Heaven or Hell].</p>
+            <p>Or Ignorant and Formal Hypocrites: who do as they ſee others do, without ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <hi>conſcience</hi> of ſin, or guidance of
+<hi>reaſon:</hi> Who do what is <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="13" facs="tcp:179718:7"/>for <hi>fear of the Law,</hi> then for <hi>love of the Goſpel:</hi> Who fear the <hi>Magiſtrate</hi> more then they fear <hi>God</hi> or the <hi>Divel;</hi> regard more the
+<hi>blaſts of men's breath,</hi> then the <hi>fire of God's wrath;</hi> will tremble more at the thought of a <hi>Bayliffe,</hi> or a <hi>Priſon;</hi> then of <hi>Satan,</hi> or <hi>Hell,</hi> and everlaſting perdition: Who will ſay, they love <hi>God</hi> and <hi>Chriſt,</hi> yet hate all that any way reſemble him; are <hi>flint</hi> unto <hi>God, wax</hi> to <hi>Satan;</hi> have their <hi>ears</hi> alwaies <hi>open</hi> to the <hi>Tempter,</hi> ſhut to their <hi>Maker</hi> and <hi>Re<g ref="char:EOLhyphen"/>deemer;</hi> will chuſe rather to diſobey <hi>God,</hi> then diſpleaſe <hi>great Ones;</hi> fear more the <hi>Worlds ſcorns,</hi> then <hi>His anger,</hi> and rather then abridge themſelves of their pleaſure, will incur the diſpleaſure of <hi>God:</hi> Who will do what
+<hi>God forbids,</hi> yet confidently hope to eſcape what <hi>He threatens:</hi> Who will do the
+<hi>Divels work<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> onely, and yet look for
+<hi>Chriſts wages;</hi> expect that <hi>Heaven</hi> will meet them at thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> laſt hour, when all their life long they have galloped in the beaten <hi>Road</hi> towards <hi>Hell:</hi> Who expect to have <hi>Chriſt</hi> their
+<hi>Redeemer</hi> and <hi>Advocate;</hi> when their con<g ref="char:EOLhyphen"/>ſciences tell them, that they ſeldom remember him, but to <hi>blaſpheme</hi> him; and mote often name him in their <hi>Oaths</hi> and
+<hi>Curſes,</hi> then in their <hi>Praiers:</hi> Who will perſecute <hi>Honeſt</hi> and
+<hi>Orthodox Chriſtians;</hi> and ſay, they mean <hi>baſe</hi> and <hi>diſſem<g ref="char:EOLhyphen"/>bling Hypocrites:</hi> Who <hi>think they do God ſervice in killing his ſervants,</hi> Joh. 16.2. Who will boaſt of a <hi>ſtrong faith,</hi> and yet fall ſhort of the <hi>Divels in believing,</hi> Jam. 2.19. <hi>Who turn the grace of God into wantonneſs;</hi> as if a condemned perſon ſhould head his <hi>Drum</hi> of <hi>Rebellion</hi> with his <hi>Pardon;</hi> reſolving to be <hi>evil,</hi> becauſe <hi>God</hi> is <hi>good:</hi> Who will not believe what is written, till they feel what is writ<g ref="char:EOLhyphen"/>ten; and whom nothing will <hi>confute,</hi> but <hi>fire and brimſtone:</hi> Who think their villainy is <hi>unſeen,</hi> becauſe it is
+<hi>unpuniſhed;</hi> and therefore <hi>live like beaſts,</hi> becauſe they think they ſhall
+<hi>die like beaſts.</hi>
+            </p>
+            <p>Conſidering the ſwarms, Legions, Millions of theſe, I ſay, and many the like, which I cannot ſtand to repeat. As alſo in reference to <hi>Levit.</hi> 19.17. <hi>Iſa.</hi> 58.1. And out of compaſſion to their pretious ſouls; there are above twenty ſeveral Books purpoſely compoſed, wherein are proper remedies (of the ſame alloy) for each ſoul ſeduced, or afflicted; to be had without any expence: which <hi>Books</hi> (like
+<hi>Glaſſes</hi>) will ſhew them (from <hi>Gods Word</hi>) the very <hi>faces</hi> of their
+<hi>hearts:</hi> And (like <hi>Peter</hi> to <hi>Cornelius, Acts</hi> 11.) <hi>tell them words whereby</hi> (with bleſſing from a<g ref="char:EOLhyphen"/>bove) both <hi>they,</hi> and their <hi>Aſſociates</hi> (by their means) <hi>may be ſaved.</hi> Verſ. 14.</p>
+            <p>And that they might the better recompence the <hi>Readers</hi> pains; whether he pro<g ref="char:EOLhyphen"/>pound to himſelf <hi>pleaſure</hi> or <hi>profit:</hi> they are (as many <hi>Reverend Divines deem</hi>) a brief Collection of the moſt winning and convincing Arguments out of the choi<g ref="char:EOLhyphen"/>ceſt
+<hi>Authors;</hi> very pithily, orderly, and elegantly conveyed, and embelliſhed; with much both variety of graceful and delightful illuſtration. Yea, if ſuch as they concern, ſhall be pleaſed to make uſe of them; they may (with God's bleſ<g ref="char:EOLhyphen"/>ſing) not onely have their vices leſſened, their knowledg increaſed, and their mindes cheered and comforted: but probably they ſhall finde in them the flower, cream, or quinteſſence, of what would otherwiſe coſt them twenty years <hi>reading</hi> to extract.</p>
+            <p>It remains onely, that the <hi>Patients,</hi> for whom this <hi>Phyſick</hi> is proper, be pre<g ref="char:EOLhyphen"/>vailed withall to <hi>take it.</hi> For although here is all neceſſary <hi>proviſion made,</hi> and the <hi>Gueſts</hi> lovingly <hi>invited,</hi> yet (of themſelves) they will refuſe to come, as in that <hi>Parable of the Lords Supper,</hi> Luke 14.16. to 25. Becauſe, as
+<hi>good meats</hi> are un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>perſons<g ref="char:punc">▪</g>
+               </hi> ſo <hi>is good counſel to obſtinate ſinners.</hi> Here is <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but
+<pb n="14" facs="tcp:179718:8"/>they love darkneſs rather then light; leſt their deeds which are evil, ſhould be re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ved.</hi> Onely <hi>they that do well, and love truth, will come to the light; that t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> deeds may be made manifeſt,</hi> John 3.19, 20, 21. Alſo many young novices in ſin <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> entertain them as <hi>Lot</hi> did thoſe
+<hi>Angels,</hi> that came to fetch him out of <hi>Sod<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gen.</hi> 19. And probably ſome <hi>Parents</hi> and <hi>Maſters</hi> will deſire them, to preve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſpreading of theſe <hi>Gangrenes</hi> in their <hi>Children</hi> and <hi>Servants.</hi> But as for
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> parties principally concerned and invited, and that ſtand in the greateſt need, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are moſt to be pitied; they will even <hi>ſtorm</hi> at this very <hi>Offer of Help,</hi> and <hi>hiſs
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Serpents,</hi> becauſe it troubles their
+<hi>Neſts.</hi> Being like him, <hi>Luke</hi> 8.27, 28. who l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ving been <hi>poſſeſt with Divels a long time,</hi> was at length very loath to part wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his
+<hi>Gueſts.</hi>
+            </p>
+            <p>Indeed, if ſome, whoſe hearts <hi>God</hi> hath already changed, would put them i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to their hands, and uſe their beſt Art to make them reliſhed: (For like <hi>Bab<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>neat</hi> muſt not onely be given them, but
+<hi>prepared</hi> too, and <hi>put into their mouths</hi> ſome return of good might happily come thereof. As weak means ſhall ſerve th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn, where <hi>God</hi> intends ſucceſs. Even a word ſeaſonably ſpoken (<hi>God</hi> bleſſing i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ike a
+<hi>Rudder,</hi> ſomtimes <hi>ſteers</hi> a man quite into another <hi>Courſe. Antiochus</hi> by he<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing from a poor man, all the
+<hi>faults</hi> which he and his <hi>Favorites</hi> had committe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> carried himſelf moſt virtuouſly ever after. <hi>Antoninus</hi> amended his future life an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manners, by onely hearing what the people ſpake of him. The very <hi>crowing of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Cock occaſioned</hi> Peters <hi>repentance. Auguſtine</hi> that famous Doctor, was converte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by onely reading that Text, <hi>Rom.</hi> 13.13. <hi>Let us walk honeſtly, as in the day-time<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp;c.</hi> Learned <hi>Junius,</hi> with reading the <hi>firſt Chapter of Saint Johns Goſpel,</hi> was wo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the faith of <hi>Chriſt.</hi> And <hi>Melancthon</hi> much after the ſame manner. I have rea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of two famous <hi>Strumpets,</hi> that were ſuddenly converted by this onely Argument<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That <hi>God</hi> ſeeth all things, even in the dark; when the <hi>doors</hi> are ſhut, and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>curtains drawn.</hi> And <hi>Mountain</hi> tells of a libidinous
+<hi>Gentleman,</hi> that ſporting with a <hi>Courtizan</hi> in a <hi>houſe of ſin,</hi> happened to ask her name, which ſhe ſaid was <hi>Mary</hi> whereat he was ſo ſtricken with reverence and remorſe; that he inſtantly both caſt off the Harlot, and amended his whole future life. <hi>Bilney</hi>'s Confeſſion con<g ref="char:EOLhyphen"/>verted <hi>Latimer:</hi> yea, <hi>Adrianus</hi> was not onely converted, but became a <hi>Martyr</hi> too, by only hearing a <hi>Martyr</hi> at the
+<hi>Stake</hi> allege that text, <hi>Eye hath not ſeen, nor Ea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> heard, &amp;c.</hi> 1 <hi>Cor.</hi> 2.9. Yea, it was an obſervation of M<hi rend="sup">r</hi> 
+               <hi>John Lindſay,</hi> that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> very ſmoke of M<hi rend="sup">r</hi> 
+               <hi>Hamilton</hi> converted as many as it blew upon. Yea, even tho<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>Jews</hi> that <hi>crucified the Son of God,</hi> were converted by hearing thoſe few words o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Peter, Act.</hi> 2. And it pleaſed God, when I, my ſelf, was in as hopeleſſe a condi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion, as any of thoſe Senſualiſts before-mentioned; (I mean, as much fore-ſtalled with prejudice againſt
+<hi>Religion,</hi> and the <hi>Religious</hi>) that a <hi>poor man</hi>'s perſwading
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne to leave reading of <hi>Poetrie,</hi> and fall upon the <hi>Bible,</hi> was a means of changing my heart, before I had read out
+<hi>Geneſis,</hi> being but twenty years of age: Who<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> more bleſs <hi>God</hi> for, then for my <hi>Parents</hi> from whom I received life. And this
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> becauſe I know no better way to expreſs my thankfulneſs to him, who hath free<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d me from frying in <hi>Hell-flames</hi> for ever and ever, then by endeavouring to wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>hers from <hi>Satans Standart</hi> to
+<hi>Chriſts</hi>) makes me do the like to others. For
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>dom hear any one <hi>ſwear</hi> or
+<hi>ſcoff,</hi> or ſee any <hi>drunk,</hi> or the like, but I prefe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em with one of theſe fore-mentioned Meſſages, from that <hi>God,</hi> whom they <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ingly</hi> and <hi>audaciouſly provoke.</hi> Nor do I alwaies miſs the mark at which I <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:179718:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd I tell it you, becauſe many <hi>diſcreet ones</hi> are apt to wonder, that I for make my
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elf a <hi>ſcorn and gazing ſtock to fools:</hi> Though I ſhall never think it a ſhame to me, which was the onely glory of him,
+<hi>that was a man after God's own heart,</hi> as you
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay very often hear him profeſs, as in
+<hi>Pſalm</hi> 50.15. &amp; 71.17, 18, 19, 24. &amp; 51.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>4. &amp; 119.171. &amp; 22.22. &amp; 35.18. and many the like; ſee <hi>Luke</hi>
+8.38, 39.</p>
+            <p>I alſo mention it, that I may (if poſſible in this <hi>covetous, cold</hi> and <hi>dull Age</hi>) <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rovoke others to do the ſame; or at leaſt ſomthing for the ſaving of theſe poor,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnorant, and impotent wretches; that are neither able nor willing to help them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elves. Though a one would think, (for I ſpeak to <hi>enlightned ſouls</hi>) they ſhould
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot need ſpurring, nor prompting to this Duty: For what <hi>heart</hi> would it not <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake to
+<hi>bleed,</hi> that hath any <hi>Chriſtian blood in his veins,</hi> to ſee what multitudes
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ere are, that go blinde-fold to deſtruction; And no man offer to ſtop or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heck them before they arrive there, from whence there is no Redem<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion. <hi>Matth.</hi> 7.13, 14. 1 <hi>Joh.</hi> 5.19. <hi>Rev.</hi> 20.8. &amp; 13.16.
+<hi>Iſa.</hi> 10.22. <hi>Ro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>an.</hi> 9.27. 2
+<hi>Tim.</hi> 2.26. 2 <hi>Cor.</hi> 4.4. <hi>Eph.</hi> 2.1, to 4. <hi>Phil.</hi> 3.18.
+<hi>Joh.</hi> 8.44. &amp; 14.30.</p>
+            <p>Yea, how ſhould it not make all, that are themſelves got out of <hi>Satan's clutches,</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lot, ſtudy, and contrive all they can; to draw others of their brethten after them.</p>
+            <p>We read that <hi>Andrew</hi> was no ſooner converted, and become <hi>Chriſt's Diſciple,</hi> at inſtantly he drew others after him to the ſame <hi>Faith, John</hi> 1.41. and the like <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Philip, ver.</hi> 45. and of the <hi>woman of Samaria, John</hi> 4.28, to 41. And of <hi>Peter,
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uke</hi> 22.32. <hi>Acts</hi> 2.41. and 3
+<hi>Chap.</hi> and 4.4. And ſo of all the Apoſtles. Yea, <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſes</hi> ſo thirſted after the ſalvation of
+<hi>Iſrael,</hi> that rather then he would be ſaved
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithout them, <hi>he deſired the Lord to blot him out of the Book of life,</hi> Exod. 32.32. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd <hi>Paul</hi> to this purpoſe ſaith, <hi>I could wiſh my ſelf to be ſeparated from Chriſt, for <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brethren; that are my kinſmen according to the fleſh:</hi> meaning the <hi>Jews, Rom.</hi> 9.3.
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd indeed, <hi>all heavenly hearts are charitable.</hi> Neither are we of the <hi>Communion of
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ants,</hi> if we deſire not the bleſſedneſſe of others: it being an inſeparable adjunct, or
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ative to grace; for none but a <hi>Cain</hi> will ſay, <hi>Am I my brother's keeper?</hi> Yea, where
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e heart is thankful, and inflamed with the love of <hi>God, and our neighbour,</hi> this will <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the principal aim: <hi>As</hi> by <hi>my ſins,</hi> and bad <hi>example,</hi> I have drawn others
+<hi>from God,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now I will, all I can, draw others with my ſelf <hi>to God. Saul</hi> converted, will <hi>build</hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as faſt as ever he <hi>plucked down,</hi> and
+<hi>preach</hi> as zealouſly as ever he <hi>perſecuted.</hi> And
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> are no whit thankful for our own ſalvation, if we do not look with <hi>charitie</hi> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> upon the groſs <hi>miſ-opinious</hi> and <hi>miſpriſions</hi> of our Brethren. And what though
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cannot do <hi>what we would?</hi> yet we muſt labour to do <hi>what we can</hi> to win o<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers; not to merit by it, but to expreſs our thanks. Beſides, it were very honorable to
+<hi>Chriſt</hi> not to do ſo. Did you ever know that wicked men; <hi>Thiev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>unkards, Adulterers, Perſecuters, falſe Prophets,</hi> or the like, would be <hi>damned
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e?</hi> no, they miſ-lead all they can, as deſiring to have companions. Yea, <hi>the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ariſees would take great pains, compaſs ſea and land, to make others two-ſold
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re the children of hell then themſelvs,</hi> as our <hi>Saviour</hi> expreſly witneſſeth, <hi>Mat.</hi>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 15. which may caſt a bluſh upon our cheeks, who are nothing ſo induſtrious <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vin ſouls to <hi>God.</hi> And what a ſhame is it! that our <hi>God</hi> ſhould not have as
+<hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ful ſervants,</hi> as he hath
+<hi>unfaithful enemies:</hi> That wicked men ſhould be at
+<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e coſt and and pains to pleaſe an <hi>ill maſter,</hi> then we can afford to pleaſe ſo <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l a God,</hi> ſo <hi>gracious,</hi> and ſo <hi>loving a Father?</hi> Shall they labour ſo hard, for which will but <hi>inhance their damnation?</hi> and ſhall
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> think
+<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:179718:9"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch for that, which will
+<hi>add to the weight of our eternal glory and ſalvation.</hi>
+            </p>
+            <p>And what though their caſe be not onely deſperate, but almoſt hopeleſs? (as
+<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aſon, that ſin is paſt cure, which ſtrives againſt the cure: nor would theſe <hi>drow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng men</hi> refuſe help, were they not <hi>wilful murtherers</hi> of their own ſouls) yet the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a mercie due even to them: And it is our duty to uſe the means; leaving t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſſue to him who is able <hi>to quicken the dead, and to make even of ſtones children<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>oraham?</hi> Witneſs <hi>Manaſſes</hi> in the <hi>Old Teſtament,</hi> and <hi>Paul</hi> in the <hi>New.</hi> Yea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ippoſe, that this their ſad <hi>condition,</hi> calls for our more then ordinance <hi>compaſſio<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ince they have precious ſouls, that muſt everlaſtingly lives <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or wo. A<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ence it is, that the <hi>Angels</hi> are ſaid to <hi>rejoice more at the con<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap> of ſuch a ſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ier, then for the building up of ninety and nine</hi> that are already converted, <hi>Luk.</hi> 1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> becauſe he to whom <hi>God</hi> hath given a new <hi>heart,</hi> and <hi>ſpiritual life,</hi> will be ſure <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſeek out for, and uſe the means of <hi>growing in grace, and in the knowledge of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Lord and Saviour Jeſus Chriſt.</hi> Whereas the former, are not onely <hi>dead</hi> in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> but ſo <hi>buried</hi> in the <hi>grave</hi> of long <hi>custome,</hi> that they cannot
+<hi>ſtir</hi> the leaſt <hi>joint;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not ſo much as <hi>feel their deadneſs,</hi> nor <hi>deſire life;</hi> but <hi>reſiſt all means</hi> tending the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto. Inſomuch, that the <hi>converſion</hi> of ſuch an one is held by <hi>Divines</hi> a grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> work, or <hi>Miracle,</hi> then the <hi>creating</hi> of the whole
+<hi>World:</hi> For in every <hi>New Cr<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ture</hi> are a number of <hi>Miracles; A blinde man is reſtored to ſight: A deaf man to he<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ing,</hi> A man
+<hi>poſſeſt</hi> with many <hi>Divels, diſ-poſſeſt,</hi> Yea, <hi>A dead man raiſed</hi> from <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>dead;</hi> and in every one a <hi>ſtone</hi> turned into <hi>fleſh:</hi> in all which <hi>God</hi> meets with
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thing but <hi>oppoſition,</hi> which in the
+<hi>Creation</hi> he met not with.</p>
+            <p>Wherefore you, that (by calling to mind your own <hi>former blindneſs,</hi> and
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>dage</hi>) are able to know how it fares with them; and accordingly to pity th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you that fear <hi>God,</hi> or have any bowels of compaſſion towards their precious ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> uſe your utmoſt indeavour to reduce them;
+<hi>earneſtly admoniſh them; draw the<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hear ſome</hi> Boanerges, <hi>that preaches with power and authority, and not as the Scri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Perſwade them alſo to <hi>read Books</hi> that are <hi>convincing, &amp;c.</hi> So ſhall you diſch<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> your <hi>Duty to God,</hi> ſhew your <hi>love to them,</hi> your
+<hi>thankfulneſs to your Redeemer; <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> not a little <hi>pleaſure your ſelves.</hi> For if you do gain them, <hi>you ſhall ſhine as the
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in Heaven, for ever and ever, Dan.</hi> 12.3. Or in caſe you cannot reclaim them <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he who requires it at your hands, <hi>Will return the ſame into your own boſomes,
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> 49.4, 5. <hi>Prov.</hi> 11.18. and
+25.22.</p>
+            <p>But I were as good <hi>knock at a deaf mans door,</hi> as preſs or perſwade the moſt
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> duty, though thus neceſſary: for thoſe
+<hi>two Idols, Diſcretion</hi> &amp; curſed <hi>Covetou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> heare a greater ſway with the common <hi>Proſeſſors</hi> of <hi>this Age;</hi> then either thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>ker</hi> or
+<hi>Redeemer:</hi> Though confident I am, others <hi>will do more then I ſay,</hi> Phile<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p>
+               <hi>Melancthon</hi> having found the Word, moſt eaſily to prevail with him; dou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not but his Preaching ſhould do wonders upon others: but having trie<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> found and confeſt, That <hi>old Adam,</hi> was too ſtrong for <hi>young Melancthon.</hi>
+            </p>
+            <p>
+               <hi>Many Lepers were in Iſrael, in the time of Elizeus the Prophet: but none of
+<gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> was cleanſed, ſaving Naaman the Syrian,</hi> Luke 4.22. <hi>to</hi> 29.</p>
+            <p>
+               <hi>Many are called, but few are choſen,</hi> Matth. 22.14.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>J. Bell,</hi> and are to be ſold by <hi>James Crumpe,</hi> in Little Bartholo<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Well-yard, who will alſo ſhew the other Books, and tell the place whe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> any one may borrow them <hi>gratis.</hi> 1656.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
